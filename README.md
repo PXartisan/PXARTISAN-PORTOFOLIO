@@ -11,8 +11,10 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
 ##  What I Do
 
 * Thumbnails (YouTube / Social Media)
- [ 
+
 ![image](thumbnail portofolio github pxarti jpg/PHOTOSHOP RETOUCHING b4&afta jpg.jpg)](https://github.com/PXartisan/PXARTISAN-PORTOFOLIO/tree/main/thumbnail%20portofolio%20github%20pxarti%20jpg)
+
+https://github.com/PXartisan/PXARTISAN-PORTOFOLIO/tree/main/thumbnail%20portofolio%20github%20pxarti%20jpg 
 
 * Posters
 
