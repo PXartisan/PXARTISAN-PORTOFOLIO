@@ -44,11 +44,8 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
   
 </p>
  
-* BROCHURES & Marketing Materials
+* BROCHURES design
 
-## 📘 Brochure Design
-
-### Project 1 – Corporate Brochure
 
 <p align="center">
   <img src="Brochure pxarti github jpg/brochure getaway pxartisan  (2).jpg" width="45%"/>
