@@ -11,15 +11,18 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
 ##  What I Do
 
 * Thumbnails (YouTube / Social Media)
-[thumbnail design with impact bleu rose original by pxartisan.pdf](https://github.com/user-attachments/files/27070824/thumbnail.design.with.impact.bleu.rose.original.by.pxartisan.pdf)
-[thumbnail 1 solo  orange design by px artisan.pdf](https://github.com/user-attachments/files/27070818/thumbnail.1.solo.orange.design.by.px.artisan.pdf)
-[PHOTOSHOP RETOUCHING thumbnail by pxartisan.pdf](https://github.com/user-attachments/files/27070799/PHOTOSHOP.RETOUCHING.thumbnail.by.pxartisan.pdf)
+  
+thumbnail/PHOTOSHOP RETOUCHING thumbnail by pxartisan.pdf
+thumbnail/thumbnail 1 solo  orange design by px artisan.pdf
+thumbnail/thumbnail design with impact bleu rose original by pxartisan.pdf
+thumbnail/thumbnail brand identity by pxartisan.pdf
 
 * Posters
-[denim poster 2026 pxartisan.pdf](https://github.com/user-attachments/files/27070829/denim.poster.2026.pxartisan.pdf)
-[Impactful Launch Poster watch pxartisan.pdf](https://github.com/user-attachments/files/27070847/Impactful.Launch.Poster.watch.pxartisan.pdf)
-[poster mental health pxartisan.pdf](https://github.com/user-attachments/files/27070842/poster.mental.health.pxartisan.pdf)
-[haute couture 2026 poster pxartisan.pdf](https://github.com/user-attachments/files/27070838/haute.couture.2026.poster.pxartisan.pdf)
+
+  poster portofolio pxartisan github/denim poster 2026 pxartisan.pdf
+poster portofolio pxartisan github/Impactful Launch Poster watch pxartisan.pdf
+poster portofolio pxartisan github/poster mental health pxartisan.pdf
+poster portofolio pxartisan github/haute couture 2026 poster pxartisan.pdf
 
 * Flyers
 [pizza menu by pxartisan.pdf](https://github.com/user-attachments/files/27070940/pizza.menu.by.pxartisan.pdf)
