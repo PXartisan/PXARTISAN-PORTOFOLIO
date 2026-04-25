@@ -12,8 +12,12 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
 
 * Thumbnails (YouTube / Social Media)
 
-![image](thumbnail portofolio github pxarti jpg/PHOTOSHOP RETOUCHING b4&afta jpg.jpg)](https://github.com/PXartisan/PXARTISAN-PORTOFOLIO/tree/main/thumbnail%20portofolio%20github%20pxarti%20jpg)
-
+<p align="center">
+  <img src="[images/thumbnails/thumb1.jpg](https://github.com/PXartisan/PXARTISAN-PORTOFOLIO/blob/main/thumbnail%20portofolio%20github%20pxarti%20jpg/PHOTOSHOP%20RETOUCHING%20b4%26afta%20jpg.jpg)" width="400"/>   
+  <img src="images/thumbnails/thumb2.jpg" width="400"/>
+   <img src="images/thumbnails/thumb1.jpg" width="400"/>
+  <img src="images/thumbnails/thumb2.jpg" width="400"/>
+</p>
 
 
   poster portofolio pxartisan github/denim poster 2026 pxartisan.pdf
