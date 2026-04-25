@@ -115,3 +115,9 @@ I combine **design, marketing thinking, and technical basics** to create visuals
 ##  Note
 
 This repository showcases my work, experiments, and creative projects in **graphic design and frontend**.
+---
+
+© 2026 PXARTISAN. All rights reserved.
+
+All designs and visual content in this repository are original work and may not be used, reproduced, or distributed without permission.
+
