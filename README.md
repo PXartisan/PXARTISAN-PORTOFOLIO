@@ -11,12 +11,8 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
 ##  What I Do
 
 * Thumbnails (YouTube / Social Media)
-  ![img](thumbnail/PHOTOSHOP RETOUCHING thumbnail by pxartisan.pdf)
-thumbnail/PHOTOSHOP RETOUCHING thumbnail by pxartisan.pdf
-thumbnail/thumbnail 1 solo  orange design by px artisan.pdf
-thumbnail/thumbnail design with impact bleu rose original by pxartisan.pdf
-thumbnail/thumbnail brand identity by pxartisan.pdf
-
+![thumbnail](thumbnail portofolio github pxarti jpg/PHOTOSHOP RETOUCHING b4&afta jpg.jpg)
+![Homepage](./images/home.jpg)
 * Posters
 
   poster portofolio pxartisan github/denim poster 2026 pxartisan.pdf
