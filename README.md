@@ -46,10 +46,24 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
  
 * BROCHURES & Marketing Materials
 
-  
-[Professional Graphic Designer Corporate roy kut Brochure by pxartisan.pdf](https://github.com/user-attachments/files/27070962/Professional.Graphic.Designer.Corporate.roy.kut.Brochure.by.pxartisan.pdf)
-[Professional Graphic Designer Corporate Brochure MIORA OLIVIA by pxartisan.pdf](https://github.com/user-attachments/files/27070960/Professional.Graphic.Designer.Corporate.Brochure.MIORA.OLIVIA.by.pxartisan.pdf)
- [Luxury Travel Brochure - Bora Bora by pxartisan.pdf](https://github.com/user-attachments/files/27070945/Luxury.Travel.Brochure.-.Bora.Bora.by.pxartisan.pdf)
+## 📘 Brochure Design
+
+### Project 1 – Corporate Brochure
+
+<p align="center">
+  <img src="Brochure pxarti github jpg/brochure getaway pxartisan  (2).jpg" width="45%"/>
+  <img src="Brochure pxarti github jpg/brochure getaway pxartisan  (1).jpg" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="Brochure pxarti github jpg/brochure  OLIVIA jpg github (2).jpg" width="45%"/>
+  <img src="Brochure pxarti github jpg/brochure  OLIVIA jpg github (1).jpg" width="45%"/>
+</p>
+
+  <p align="center">
+  <img src="Brochure pxarti github jpg/brochure ROY KUT jpg github (2).jpg" width="45%"/>
+  <img src="Brochure pxarti github jpg/brochure ROY KUT jpg github (1).jpg" width="45%"/>
+</p>
 
 
 * Photo Editing & Retouching
