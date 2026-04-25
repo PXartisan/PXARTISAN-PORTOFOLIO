@@ -27,7 +27,7 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
   <img src="poster github porto jpg/Haute Couture Poster Fashion Future 2024.jpg" width="400"/>
    <img src="poster github porto jpg/Impactful Brand Promo Poster (1).jpg" width="400"/>
   <img src="poster github porto jpg/Empowering Poster Featuring Diverse Group.jpg" width="400"/>
-   <img src="poster github porto jpg/Impactful Launch Poster Unveiled.jpg" width="400"/>  
+   <img src="poster github porto jpg/Hopeful Minds Mental Health Awareness Poster.jpg" width="400"/>  
    
 </p>
 
