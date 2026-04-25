@@ -48,6 +48,7 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
 [Professional Graphic Designer Corporate Brochure MIORA OLIVIA by pxartisan.pdf](https://github.com/user-attachments/files/27070960/Professional.Graphic.Designer.Corporate.Brochure.MIORA.OLIVIA.by.pxartisan.pdf)
  [Luxury Travel Brochure - Bora Bora by pxartisan.pdf](https://github.com/user-attachments/files/27070945/Luxury.Travel.Brochure.-.Bora.Bora.by.pxartisan.pdf)
 
+
 * Photo Editing & Retouching
 
 <img width="1200" height="1500" alt="1" src="https://github.com/user-attachments/assets/118985ec-b12d-4e67-ac7c-815ce2d2a9cc" />
