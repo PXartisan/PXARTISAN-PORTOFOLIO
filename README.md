@@ -36,6 +36,15 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
 * Photo Editing & Retouching
 
 <img width="1200" height="1500" alt="1" src="https://github.com/user-attachments/assets/118985ec-b12d-4e67-ac7c-815ce2d2a9cc" />
+<img width="1200" height="1500" alt="2" src="https://github.com/user-attachments/assets/a22b9eeb-8d43-4fbf-97c8-f97d4639d505" />
+<img width="1200" height="1500" alt="3" src="https://github.com/user-attachments/assets/8c3d1926-5111-457e-b080-c4245993988e" />
+<img width="1200" height="1500" alt="4" src="https://github.com/user-attachments/assets/445e2f74-8f5a-4a79-b5ac-fac2da038059" />
+<img width="1200" height="1500" alt="5" src="https://github.com/user-attachments/assets/dd612204-adcf-4c2b-b147-b7be7a832d4b" />
+<img width="1200" height="1500" alt="6" src="https://github.com/user-attachments/assets/61975b76-ac52-421c-b10d-d6b38559e2ac" />
+<img width="1200" height="1500" alt="7" src="https://github.com/user-attachments/assets/ea52aeb2-299d-47f1-af00-1a6db3151fdc" />
+<img width="1200" height="1500" alt="8" src="https://github.com/user-attachments/assets/ead7700c-8b4b-455b-b867-28255aac7b24" />
+
+
 
 Alongside design, I have a foundation in frontend development:
 
