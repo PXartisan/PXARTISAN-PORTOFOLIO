@@ -95,13 +95,13 @@ This allows me to create **clean, responsive interfaces** and better understand 
 
 <p align="center">Click to view live website</p>
 
-<a href="[https://yourwebsite.com](https://codesandbox.io/p/github/PXartisan/TechnicalDoc-Rice-cultivation)">
+<a href="https://yourwebsite.com](https://codesandbox.io/p/github/PXartisan/TechnicalDoc-Rice-cultivation">
   <img src="technical doc.png" width="800"/>
 </a>
 
 <p align="center">Click to view live website</p>
 
-<a href="[https://yourwebsite.com](https://codesandbox.io/p/github/PXartisan/Customer-Satisfaction-Survey)">
+<a href="https://yourwebsite.com](https://codesandbox.io/p/github/PXartisan/Customer-Satisfaction-Survey">
   <img src="survey (2).png" width="800"/>
 </a>
 
