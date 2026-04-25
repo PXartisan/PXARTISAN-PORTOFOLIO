@@ -87,10 +87,6 @@ This allows me to create **clean, responsive interfaces** and better understand 
 
 ##  Frontend Skills (Additional)
 
-
-
-## 🌐 Website Projects
-
 <p align="center">
   <a href="https://codesandbox.io/p/github/PXartisan/Tribute-page-vanilla">
     <img src="vanilla.png" width="800"/>
