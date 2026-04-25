@@ -20,10 +20,16 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
 </p>
 
 
-  poster portofolio pxartisan github/denim poster 2026 pxartisan.pdf
-poster portofolio pxartisan github/Impactful Launch Poster watch pxartisan.pdf
-poster portofolio pxartisan github/poster mental health pxartisan.pdf
-poster portofolio pxartisan github/haute couture 2026 poster pxartisan.pdf
+* poster 
+  
+<p align="center">
+    <img src="poster github porto jpg/Impactful Brand Promo Poster.jpg" width="400"/>
+  <img src="poster github porto jpg/Haute Couture Poster Fashion Future 2024.jpg" width="400"/>
+   <img src="poster github porto jpg/Impactful Brand Promo Poster (1).jpg" width="400"/>
+  <img src="poster github porto jpg/Empowering Poster Featuring Diverse Group.jpg" width="400"/>
+   <img src="poster github porto jpg/Hopeful Minds Mental Health Awareness Poster.jpg" width="400"/>  
+</p>
+
 
 * Flyers
 [pizza menu by pxartisan.pdf](https://github.com/user-attachments/files/27070940/pizza.menu.by.pxartisan.pdf)
