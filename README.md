@@ -15,7 +15,7 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
 <p align="center">
   
   <img src="https://github.com/PXartisan/PXARTISAN-PORTOFOLIO/tree/main/thumbnail%20portofolio%20github%20pxarti%20jpg" width="400"/>
-   <img src="images/thumbnails/thumb1.jpg" width="400"/>
+   <img src="thumbnail portofolio github pxarti jpg/thumbnail orange impact jpg.jpg" width="400"/>
   <img src="images/thumbnails/thumb2.jpg" width="400"/>
 </p>
 
