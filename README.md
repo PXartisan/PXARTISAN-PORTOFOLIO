@@ -13,10 +13,10 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
 * Thumbnails (YouTube / Social Media)
 
 <p align="center">
-  
-  <img src="https://github.com/PXartisan/PXARTISAN-PORTOFOLIO/tree/main/thumbnail%20portofolio%20github%20pxarti%20jpg" width="400"/>
+    <img src="thumbnail portofolio github pxarti jpg/PHOTOSHOP RETOUCHING b4&afta jpg.jpg" width="400"/>
+  <img src="thumbnail portofolio github pxarti jpg/thumbnail max imp bleu jpg.jpg" width="400"/>
    <img src="thumbnail portofolio github pxarti jpg/thumbnail orange impact jpg.jpg" width="400"/>
-  <img src="images/thumbnails/thumb2.jpg" width="400"/>
+  <img src="thumbnail portofolio github pxarti jpg/thumb build br id bold jpg.jpg" width="400"/>
 </p>
 
 
