@@ -87,9 +87,7 @@ This allows me to create **clean, responsive interfaces** and better understand 
 
 ##  Frontend Skills (Additional)
 
-https://codesandbox.io/p/github/PXartisan/Tribute-page-vanilla
-https://codesandbox.io/p/github/PXartisan/TechnicalDoc-Rice-cultivation
-https://codesandbox.io/p/github/PXartisan/Customer-Satisfaction-Survey
+
 
 <a href="https://yourwebsite.com](https://codesandbox.io/p/github/PXartisan/Tribute-page-vanilla">
   <img src="vanilla.png" width="800"/>
@@ -97,14 +95,14 @@ https://codesandbox.io/p/github/PXartisan/Customer-Satisfaction-Survey
 
 <p align="center">Click to view live website</p>
 
-<a href="https://yourwebsite.com">
-  <img src="images/web/homepage.jpg" width="800"/>
+<a href="[https://yourwebsite.com](https://codesandbox.io/p/github/PXartisan/TechnicalDoc-Rice-cultivation)">
+  <img src="technical doc.png" width="800"/>
 </a>
 
 <p align="center">Click to view live website</p>
 
-<a href="https://yourwebsite.com">
-  <img src="images/web/homepage.jpg" width="800"/>
+<a href="[https://yourwebsite.com](https://codesandbox.io/p/github/PXartisan/Customer-Satisfaction-Survey)">
+  <img src="survey (2).png" width="800"/>
 </a>
 
 <p align="center">Click to view live website</p>
