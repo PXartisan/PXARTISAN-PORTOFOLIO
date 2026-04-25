@@ -27,19 +27,22 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
   <img src="poster github porto jpg/Haute Couture Poster Fashion Future 2024.jpg" width="400"/>
    <img src="poster github porto jpg/Impactful Brand Promo Poster (1).jpg" width="400"/>
   <img src="poster github porto jpg/Empowering Poster Featuring Diverse Group.jpg" width="400"/>
-   <img src="poster github porto jpg/Hopeful Minds Mental Health Awareness Poster.jpg" width="400"/>  
-   
+   <img src="poster github porto jpg/Hopeful Minds Mental Health Awareness Poster.jpg" width="400"/>    
 </p>
 
 
 * FLYERS
 
+ 
+<p align="center">
+<img src="flyers pxarti github jpg/Dynamic Music Event Flyer Bold, Modern Design jpg.jpg" width="400"/>
+  <img src="flyers pxarti github jpg/Dynamic Music Event Flyer Bold, Modern Design for Pro Portfolio.jpg" width="400"/>
+   <img src="flyers pxarti github jpg/Elegant Menu Flyer for Savor & Spine.jpg" width="400"/>
+  <img src="flyers pxarti github jpg/Gourmet Menu Portfolio Flyer jpg.jpg" width="400"/>
+   <img src="flyers pxarti github jpg/Gourmet Menu Portfolio Flyer.jpg" width="400"/>   
+    <img src="flyers pxarti github jpg/happy crust jpg pizza flyer.jpg" width="400"/>
   
-[pizza menu by pxartisan.pdf](https://github.com/user-attachments/files/27070940/pizza.menu.by.pxartisan.pdf)
-[Flyer - Escape to Bora Bora by pxartisan.pdf](https://github.com/user-attachments/files/27070938/Flyer.-.Escape.to.Bora.Bora.by.pxartisan.pdf)
-[Gourmet Menu Flyer by pxartisan.pdf](https://github.com/user-attachments/files/27070933/Gourmet.Menu.Flyer.by.pxartisan.pdf)
-[Elegant Menu Flyer by pxartisan.pdf](https://github.com/user-attachments/files/27070930/Elegant.Menu.Flyer.by.pxartisan.pdf)
-[Dynamic Music Event Flyer pxartisan.pdf](https://github.com/user-attachments/files/27070925/Dynamic.Music.Event.Flyer.pxartisan.pdf)
+</p>
  
 * BROCHURES & Marketing Materials
 
