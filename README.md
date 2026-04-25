@@ -91,6 +91,24 @@ https://codesandbox.io/p/github/PXartisan/Tribute-page-vanilla
 https://codesandbox.io/p/github/PXartisan/TechnicalDoc-Rice-cultivation
 https://codesandbox.io/p/github/PXartisan/Customer-Satisfaction-Survey
 
+<a href="https://yourwebsite.com](https://codesandbox.io/p/github/PXartisan/Tribute-page-vanilla">
+  <img src="vanilla.png" width="800"/>
+</a>
+
+<p align="center">Click to view live website</p>
+
+<a href="https://yourwebsite.com">
+  <img src="images/web/homepage.jpg" width="800"/>
+</a>
+
+<p align="center">Click to view live website</p>
+
+<a href="https://yourwebsite.com">
+  <img src="images/web/homepage.jpg" width="800"/>
+</a>
+
+<p align="center">Click to view live website</p>
+
 ##  Languages
 
 * French (Fluent)
