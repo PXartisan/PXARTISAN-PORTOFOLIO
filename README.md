@@ -19,6 +19,7 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
   <img src="thumbnail portofolio github pxarti jpg/thumb build br id bold jpg.jpg" width="400"/>
 </p>
 
+---
 
 * POSTERS
   
@@ -30,6 +31,7 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
    <img src="poster github porto jpg/Hopeful Minds Mental Health Awareness Poster.jpg" width="400"/>    
 </p>
 
+---
 
 * FLYERS
 
@@ -43,9 +45,10 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
     <img src="flyers pxarti github jpg/happy crust jpg pizza flyer.jpg" width="400"/>
   
 </p>
+
+ ---
  
 * BROCHURES design
-
 
 <p align="center">
   <img src="Brochure pxarti github jpg/brochure getaway pxartisan  (2).jpg" width="45%"/>
@@ -62,6 +65,7 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
   <img src="Brochure pxarti github jpg/brochure ROY KUT jpg github (1).jpg" width="45%"/>
 </p>
 
+---
 
 * Photo Editing & Retouching
 
@@ -74,7 +78,7 @@ I pay strong attention to **composition, clarity, and visual impact**, aiming to
 <img width="1200" height="1500" alt="7" src="https://github.com/user-attachments/assets/ea52aeb2-299d-47f1-af00-1a6db3151fdc" />
 <img width="1200" height="1500" alt="8" src="https://github.com/user-attachments/assets/ead7700c-8b4b-455b-b867-28255aac7b24" />
 
-
+---
 
 Alongside design, I have a foundation in frontend development:
 
@@ -83,6 +87,8 @@ Alongside design, I have a foundation in frontend development:
 * JavaScript
 
 This allows me to create **clean, responsive interfaces** and better understand how design translates into real digital products.
+
+---
 
 
 ##  Frontend Skills (Additional)
@@ -108,6 +114,8 @@ This allows me to create **clean, responsive interfaces** and better understand 
 <p align="center">
   🔗 Click any image to view the live project
 </p>
+
+---
 
 ##  Languages
 
