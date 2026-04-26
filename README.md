@@ -27,18 +27,6 @@ I pay strong attention to composition, clarity, and visual impact, aiming to cre
 <!-- WHAT I DO -->
 <h2>What I Do</h2>
 
-#  Hi, I'm a Graphic Designer & Junior Frontend Developer
-
-I’m a multidisciplinary creative focused primarily on **graphic design and visual content creation**.
-
-I design **thumbnails, posters, flyers, brochures, and social media visuals** with a clean and modern style. My work also includes **photo retouching, short-form video editing**, and **logo design with vector-based graphics** to build consistent and scalable visual identities.
-
-I pay strong attention to **composition, clarity, and visual impact**, aiming to create designs that are simple, effective, and aligned with their purpose.
-
----
-
-##  What I Do
-
 * THUMBNAILS (YouTube / Social Media)
 
 <p align="center">
