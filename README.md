@@ -1,3 +1,32 @@
+<!-- HERO -->
+<h1 align="center">Graphic Designer & Junior Frontend Developer</h1>
+
+<p align="center">
+Multidisciplinary creative focused on clean, modern visual content and digital experiences.
+</p>
+
+<br>
+
+<!-- ABOUT -->
+<h2>About</h2>
+
+<p>
+I’m a multidisciplinary creative focused primarily on graphic design and visual content creation.
+</p>
+
+<p>
+I design thumbnails, posters, flyers, brochures, and social media visuals with a clean and modern style. My work also includes photo retouching, short-form video editing, and logo design with vector-based graphics to build consistent and scalable visual identities.
+</p>
+
+<p>
+I pay strong attention to composition, clarity, and visual impact, aiming to create designs that are simple, effective, and aligned with their purpose.
+</p>
+
+<br>
+
+<!-- WHAT I DO -->
+<h2>What I Do</h2>
+
 #  Hi, I'm a Graphic Designer & Junior Frontend Developer
 
 I’m a multidisciplinary creative focused primarily on **graphic design and visual content creation**.
