@@ -97,19 +97,19 @@ I pay strong attention to composition, clarity, and visual impact, aiming to cre
 
 ---
 
-## 🎬 Video Projects
+##  Video Projects
 
 A collection of cinematic video work created by **PXARTISAN** — from concept development and filming to editing, color grading, sound design, and final delivery.
 
 ---
 
-## 🌍 Wander | Cinematic Travel Reel
+##  Wander | Cinematic Travel Reel
 
 A cinematic travel reel capturing the beauty of exploration, movement, and storytelling through visual storytelling.
 
 [![Wander Cinematic Travel Reel](assets/images/wander-pochette.png)](https://youtube.com/shorts/DS0fOPwSrsA)
 
-### 🎥 Project Details
+###  Project Details
 
 **Created by:** PXARTISAN
 
@@ -124,7 +124,7 @@ A cinematic travel reel capturing the beauty of exploration, movement, and story
 **Software:**
 - Adobe Premiere Pro
 
-### 🎵 Music Credit
+###  Music Credit
 
 **"Wasting Angels" — Post Malone featuring The Kid LAROI**
 
@@ -133,7 +133,7 @@ Used for artistic and portfolio purposes only.
 
 ---
 
-### 🛠️ Creative Process
+### Creative Process
 
 **1. Concept & Planning**
 - Developed the visual direction and storytelling approach.
