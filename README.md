@@ -160,7 +160,7 @@ Used for artistic and portfolio purposes only.
 
 #PXARTISAN #Wander #Cinematic #TravelFilm #VideoEditing #PremierePro #ColorGrading #Filmmaking #Portfolio
 
-
+---
 
 Alongside design, I have a foundation in frontend development:
 
