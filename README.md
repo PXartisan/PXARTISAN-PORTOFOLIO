@@ -109,6 +109,8 @@ A cinematic travel reel capturing the beauty of exploration, movement, and story
 
 [![Wander Cinematic Travel Reel](wander-pochette.png)](https://youtube.com/shorts/DS0fOPwSrsA)
 
+▶️ Click the image to watch the full video
+
 ###  Project Details
 
 **Created by:** PXARTISAN
