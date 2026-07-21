@@ -105,9 +105,9 @@ A collection of cinematic video work created by **PXARTISAN** — from concept d
 
 ## 🌍 Wander | Cinematic Travel Reel
 
-A visual journey capturing the beauty of exploration, movement, and storytelling through cinematic visuals.
+A cinematic travel reel capturing the beauty of exploration, movement, and storytelling through visual storytelling.
 
-[![Wander Cinematic Travel Reel](assets/images/wander pochette.png)](https://youtube.com/shorts/DS0fOPwSrsA)
+[![Wander Cinematic Travel Reel](assets/images/wander-pochette.png)](https://youtube.com/shorts/DS0fOPwSrsA)
 
 ### 🎥 Project Details
 
@@ -126,7 +126,7 @@ A visual journey capturing the beauty of exploration, movement, and storytelling
 
 ### 🎵 Music Credit
 
-**"Wasting Angels"** by **Post Malone** featuring **The Kid LAROI**
+**"Wasting Angels" — Post Malone featuring The Kid LAROI**
 
 Music rights belong to the respective copyright owners.  
 Used for artistic and portfolio purposes only.
@@ -136,19 +136,19 @@ Used for artistic and portfolio purposes only.
 ### 🛠️ Creative Process
 
 **1. Concept & Planning**
-- Developed the creative direction and visual storytelling approach.
-- Planned shots, pacing, and overall mood.
+- Developed the visual direction and storytelling approach.
+- Planned the shots, pacing, and cinematic atmosphere.
 
 **2. Filming**
-- Captured original footage with a focus on cinematic composition, movement, and atmosphere.
+- Captured original footage with a focus on composition, movement, and natural environments.
 
 **3. Post-Production**
-- Edited the full sequence in Adobe Premiere Pro.
+- Edited the complete sequence in Adobe Premiere Pro.
 - Created the pacing, transitions, color grading, and sound design.
-- Optimized the final video for online presentation.
+- Prepared the final video for online presentation.
 
 **4. Final Delivery**
-- Exported and prepared the final cinematic reel for YouTube and portfolio presentation.
+- Exported and optimized the cinematic reel for YouTube and portfolio showcase.
 
 ---
 
@@ -156,7 +156,9 @@ Used for artistic and portfolio purposes only.
 
 ▶️ [Watch "Wander" on YouTube](https://youtube.com/shorts/DS0fOPwSrsA)
 
-#PXARTISAN #Cinematic #TravelFilm #VideoEditing #PremierePro #ColorGrading #Filmmaking
+---
+
+#PXARTISAN #Wander #Cinematic #TravelFilm #VideoEditing #PremierePro #ColorGrading #Filmmaking #Portfolio
 
 
 
