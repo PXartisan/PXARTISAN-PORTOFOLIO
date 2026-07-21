@@ -107,7 +107,7 @@ A collection of cinematic video work created by **PXARTISAN** — from concept d
 
 A cinematic travel reel capturing the beauty of exploration, movement, and storytelling through visual storytelling.
 
-[![Wander Cinematic Travel Reel](assets/images/wander-pochette.png)](https://youtube.com/shorts/DS0fOPwSrsA)
+[![Wander Cinematic Travel Reel](assets/images/[wander-pochette.png](https://github.com/PXartisan/PXARTISAN-PORTOFOLIO/blob/main/wander-pochette.png))](https://youtube.com/shorts/DS0fOPwSrsA)
 
 ###  Project Details
 
