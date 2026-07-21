@@ -97,6 +97,69 @@ I pay strong attention to composition, clarity, and visual impact, aiming to cre
 
 ---
 
+## 🎬 Video Projects
+
+A collection of cinematic video work created by **PXARTISAN** — from concept development and filming to editing, color grading, sound design, and final delivery.
+
+---
+
+## 🌍 Wander | Cinematic Travel Reel
+
+A visual journey capturing the beauty of exploration, movement, and storytelling through cinematic visuals.
+
+[![Wander Cinematic Travel Reel](assets/images/wander-thumbnail.jpg)](https://youtube.com/shorts/DS0fOPwSrsA)
+
+### 🎥 Project Details
+
+**Created by:** PXARTISAN
+
+**Role:**
+- Creative Direction
+- Filming & Cinematography
+- Video Editing
+- Color Grading
+- Sound Design
+- Final Production
+
+**Software:**
+- Adobe Premiere Pro
+
+### 🎵 Music Credit
+
+**"Wasting Angels"** by **Post Malone** featuring **The Kid LAROI**
+
+Music rights belong to the respective copyright owners.  
+Used for artistic and portfolio purposes only.
+
+---
+
+### 🛠️ Creative Process
+
+**1. Concept & Planning**
+- Developed the creative direction and visual storytelling approach.
+- Planned shots, pacing, and overall mood.
+
+**2. Filming**
+- Captured original footage with a focus on cinematic composition, movement, and atmosphere.
+
+**3. Post-Production**
+- Edited the full sequence in Adobe Premiere Pro.
+- Created the pacing, transitions, color grading, and sound design.
+- Optimized the final video for online presentation.
+
+**4. Final Delivery**
+- Exported and prepared the final cinematic reel for YouTube and portfolio presentation.
+
+---
+
+### 🔗 Watch the Full Reel
+
+▶️ [Watch "Wander" on YouTube](https://youtube.com/shorts/DS0fOPwSrsA)
+
+#PXARTISAN #Cinematic #TravelFilm #VideoEditing #PremierePro #ColorGrading #Filmmaking
+
+
+
 Alongside design, I have a foundation in frontend development:
 
 * HTML
