@@ -156,9 +156,6 @@ Used for artistic and portfolio purposes only.
 
 ▶️ [Watch "Wander" on YouTube](https://youtube.com/shorts/DS0fOPwSrsA)
 
----
-
-#PXARTISAN #Wander #Cinematic #TravelFilm #VideoEditing #PremierePro #ColorGrading #Filmmaking #Portfolio
 
 ---
 
