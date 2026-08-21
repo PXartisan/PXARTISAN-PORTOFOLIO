@@ -153,7 +153,7 @@ Short-form cinematic edits — concept, filming, editing, color grading, sound d
 
 A travel reel built around movement and discovery: wide establishing shots, natural transitions, and a color grade that keeps the pacing calm and cinematic.
 
-[![Wander Cinematic Travel Reel](wander-thumbnail-play.jpg)](https://youtube.com/shorts/DS0fOPwSrsA)
+[![Wander Cinematic Travel Reel](wander-pochette.png)](https://youtube.com/shorts/DS0fOPwSrsA)
 
 **▶️ [Watch on YouTube](https://youtube.com/shorts/DS0fOPwSrsA)**
 
@@ -175,7 +175,7 @@ A travel reel built around movement and discovery: wide establishing shots, natu
 
 A fast-paced summer edit filmed at an amusement park, built to capture the energy of the rides, the crowd, and the color of a day at the fair. Quick cuts and a bold grade keep the pacing high from the first frame.
 
-[![Summer Vibes Amusement Park Reel](summer-vibes-thumbnail-play.jpg)](https://www.youtube.com/shorts/bqS9DUNGI50)
+[![Summer Vibes Amusement Park Reel](IMAGE SUMMER VIBES.png)](https://www.youtube.com/shorts/bqS9DUNGI50)
 
 **▶️ [Watch on YouTube](https://www.youtube.com/shorts/bqS9DUNGI50)**
 
