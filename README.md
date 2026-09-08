@@ -201,6 +201,32 @@ A fast-paced summer edit filmed at an amusement park, built to capture the energ
 
 ---
 
+### The View Ahead — Coastal Reveal Reel
+
+A cinematic journey through movement, music, and perspective. The edit follows a model across a bridge, building anticipation before revealing a sweeping seaside view scattered with boats and open water — every moment paced tightly to the music, with color, rhythm, and transitions shaping the reveal.
+
+<p align="center">
+  <a href="https://www.youtube.com/shorts/c2vdP145j5g">
+    <img src="The%20view%20ahead.png" width="300" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.25);" alt="The View Ahead"/>
+  </a>
+</p>
+
+**▶️ [Watch on YouTube](https://www.youtube.com/shorts/c2vdP145j5g)**
+
+| | |
+|---|---|
+| **Role** | Creative Direction · Filming · Editing · Color Grading · Pacing & Text |
+| **Software** | Adobe Premiere Pro |
+| **Music** | Royalty-free track via Pixabay |
+
+**Process**
+1. Planned the pacing around a single build-and-release arc — tension on the bridge, payoff at the reveal.
+2. Directed the shoot on location, framing the model's crossing to hold anticipation before the turn toward the water.
+3. Edited the sequence in Premiere Pro, syncing cuts to the music and layering color grading and transitions to shape the reveal.
+4. Exported and optimized for YouTube and portfolio delivery.
+
+---
+
 ## Frontend Development
 
 Working knowledge of HTML, CSS, and JavaScript — enough to build clean, responsive interfaces and understand how a design actually performs once it's built.
