@@ -227,6 +227,18 @@ A cinematic journey through movement, music, and perspective. The edit follows a
 
 ---
 
+### Lay's Chips — Motion Design Spec Ad | Adobe After Effects
+
+<p align="center">
+  <a href="https://youtu.be/GsUEQAmiYIE">
+    <img src="https://img.youtube.com/vi/GsUEQAmiYIE/maxresdefault.jpg" width="300" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.25);" alt="Lay's Chips Motion Design Spec Ad"/>
+  </a>
+</p>
+
+**▶️ [Watch on YouTube](https://youtu.be/GsUEQAmiYIE)**
+
+---
+
 ## Frontend Development
 
 Working knowledge of HTML, CSS, and JavaScript — enough to build clean, responsive interfaces and understand how a design actually performs once it's built.
