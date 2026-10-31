@@ -230,12 +230,12 @@ A cinematic journey through movement, music, and perspective. The edit follows a
 ### Lay's Chips — Motion Design Spec Ad | Adobe After Effects
 
 <p align="center">
-  <a href="https://youtu.be/GsUEQAmiYIE">
+  <a href="https://youtu.be/qgLm2q3WVp8">
     <img src="https://img.youtube.com/vi/GsUEQAmiYIE/maxresdefault.jpg" width="300" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.25);" alt="Lay's Chips Motion Design Spec Ad"/>
   </a>
 </p>
 
-**▶️ [Watch on YouTube](https://youtu.be/GsUEQAmiYIE)**
+**▶️ [Watch on YouTube](https://youtu.be/qgLm2q3WVp8)**
 
 ---
 
