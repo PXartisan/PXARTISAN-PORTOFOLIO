@@ -251,6 +251,18 @@ A cinematic journey through movement, music, and perspective. The edit follows a
 
 ---
 
+### NIVEA Body Lotion
+
+<p align="center">
+  <a href="https://youtu.be/xyik2BSgjXg">
+    <img src="https://img.youtube.com/vi/xyik2BSgjXg/maxresdefault.jpg" width="300" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.25);" alt="NIVEA Body Lotion"/>
+  </a>
+</p>
+
+**▶️ [Watch on YouTube](https://youtu.be/xyik2BSgjXg)**
+
+---
+
 ## Frontend Development
 
 Working knowledge of HTML, CSS, and JavaScript — enough to build clean, responsive interfaces and understand how a design actually performs once it's built.
